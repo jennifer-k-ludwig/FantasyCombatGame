@@ -1,4 +1,4 @@
-# Fantasy Combat Game V1
+# Fantasy Combat Game
 This fantasy combat game allows two players to choose their characters and battle it out with the roll of a die. Each character has their own die (or dice) of varying sides, and their own special "moves". Each round consists of two attacks, where each character alternates between the attacker and defender. A player loses when all strength points are lost.
 
 ## Usage
